@@ -15,7 +15,8 @@ The Weather App is designed to give you the current weather information on any C
 
 ![The following image illustrates the looks and functionality of the interface:](./assets/Mockup/Weather-Dash-Mock-up.jpg)
 
-Click [**here.**]( https://rhanciles.github.io/Weather-Dashboard/) to check it out.
+## Website
+Click [**here.**](https://rodev-apps.github.io/Weather-Dashboard/) to visit site.
 
 ## Usage
 Without reading any instructions you can start using the App right away because it is that straight forward and easy to us. As you search, it was store your most recent search providing up to 8 buttons for you to click on saving you the need to type that city again. Each individual buttons has a delete icon attached to it, which you can click on if you want to get rid of it. After you have added up to 5 buttons, a clear button will appear which does exactly as described. At the bottom your find some more useful information on the city, such as the time, date, country and region. 
@@ -24,4 +25,5 @@ This Repo is made up of the core files and folders related to the task. I have a
 
 ## Feedback
 
-Please feel free to reach out or drop a comment here if you have any questions, queries or suggestions. Otherwise, you can find me on the Slack platform Pod 5, just search for Rod.
+Please feel free to reach out and/or checkout my social media feeds if you have any questions, queries or suggestions. 
+##### Thanks Rodevs. [![Asset 6](https://github.com/user-attachments/assets/68f9789a-068a-41f9-a5b0-4c2c3ae10024)](https://www.linkedin.com/in/rodevs/)  [![Asset 2](https://github.com/user-attachments/assets/2c92f667-8613-4e33-aa9c-75281f2feb48)](https://www.facebook.com/profile.php?id=100095082984128)  [![Asset 4](https://github.com/user-attachments/assets/8b09094b-81d7-403e-9c08-980b28dc4c67)](https://x.com/Rodevs23?mx=2)
