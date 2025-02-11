@@ -21,7 +21,7 @@ Click [**here.**](https://rodev-apps.github.io/Weather-Dashboard/) to visit site
 ## Usage
 Without reading any instructions you can start using the App right away because it is that straight forward and easy to us. As you search, it was store your most recent search providing up to 8 buttons for you to click on saving you the need to type that city again. Each individual buttons has a delete icon attached to it, which you can click on if you want to get rid of it. After you have added up to 5 buttons, a clear button will appear which does exactly as described. At the bottom your find some more useful information on the city, such as the time, date, country and region. 
 
-This Repo is made up of the core files and folders related to the task. I have added comments to all the relevant sections of the code, highlighting key areas and the expected result derived from it. The content comprise only that related to the task and I have kept the interface very simple and straight forward to use. It also contains a folder with an animated image of the mock-up depicting the final product. It’s quite straight forward to use, simply click [**here.**]( https://rhanciles.github.io/Weather-Dashboard/) to begin.
+This Repo is made up of the core files and folders related to the task. I have added comments to all the relevant sections of the code, highlighting key areas and the expected result derived from it. The content comprise only that related to the task and I have kept the interface very simple and straight forward to use. It also contains a folder with an animated image of the mock-up depicting the final product. It’s quite straight forward to use, simply click [**here.**](https://rodev-apps.github.io/Weather-Dashboard/) to begin.
 
 ## Feedback
 
